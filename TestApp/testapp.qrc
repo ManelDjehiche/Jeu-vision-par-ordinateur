@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/TestApp">
+        <file>Resources/images/perso.png</file>
+        <file>Resources/images/but.jpg</file>
+        <file>Resources/images/but_23.png</file>
+        <file>Resources/images/but_bbibbi.png</file>
+        <file>Resources/images/but_blueming.png</file>
+        <file>Resources/images/but_marshmallow.png</file>
+        <file>Resources/images/but_palette.png</file>
+        <file>Resources/images/perso_iu.png</file>
+        <file>Resources/images/transparent.png</file>
+    </qresource>
+</RCC>
